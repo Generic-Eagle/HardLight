@@ -24,12 +24,6 @@
   parent: BaseC3SyndicateContraband
   abstract: true
 
-# base department restricted contraband
-- type: entity
-  id: BaseRestrictedContraband
-  parent: BaseC2ContrabandUnredeemable
-  abstract: true
-
 # civilian department contraband
 - type: entity
   id: BaseCivilianContraband

@@ -267,7 +267,8 @@
     - NFEngineeringTechfabDeprecatedStatic
     - NFInflatablesStatic
     dynamicPacks:
-    - NFEngineeringTechfabDeprecated  - type: OreSiloClient
+    - NFEngineeringTechfabDeprecated
+  - type: OreSiloClient
   - type: DeviceLinkSink
     ports:
       - FillbotAnyItem
