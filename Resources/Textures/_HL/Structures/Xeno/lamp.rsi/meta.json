@@ -8,10 +8,10 @@
   },
     "states": [
         {
-            "name": "XenoLampFloor",
+            "name": "XenoLampFloor"
         },
 		{
-            "name": "XenoLampFloor_Glow",
+            "name": "XenoLampFloor_Glow"
         },
 		{
             "name": "XenoWallLamp",
